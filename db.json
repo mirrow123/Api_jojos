@@ -1,0 +1,32 @@
+{
+
+   "jojos" :[
+       {
+           "id": 1,
+           "Persona": "Jhonny Cala",
+            "edad": "18",
+           "img": "https://instagram.fbaq6-1.fna.fbcdn.net/v/t51.2885-15/243042994_592385511943502_9106660840025032009_n.webp?stp=dst-jpg_e35&_nc_ht=instagram.fbaq6-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=c8LCqeqh328AX97yzy7&edm=AABBvjUBAAAA&ccb=7-4&oh=00_AT-ZLnAPRZS2HA_OHJFvnBUCGWRoPBUk48oVPZphecdoVA&oe=621D77C6&_nc_sid=83d603"
+
+       },
+
+       {
+        "id": 2,
+        "Persona": "Jaider Rudas",
+        "edad": "20",
+        "img": "https://pbs.twimg.com/profile_images/3106343882/e1dae269d082aef31a48bbe34ea63e24_400x400.jpeg"
+       },
+
+
+       {
+        "id": 3,
+        "Persona": "Daniela Espinosa",
+        "edad": "20",
+        "img": "https://pbs.twimg.com/media/Ew-KeLXXAAAWn01.jpg"
+       }
+
+
+    ],
+    "profile": {
+        "name": "Joanatsu"
+    }
+}
